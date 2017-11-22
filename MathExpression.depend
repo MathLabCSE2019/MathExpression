@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511387500 source:c:\users\lenovo\desktop\3rd computer\mathexpression\main.cpp
+	<iostream>
+	"MExpreMM.h"
+
+1511386723 c:\users\lenovo\desktop\3rd computer\mathexpression\mexpremm.h
+	<iostream>
+	<string.h>
+	<math.h>
+
+1511387748 source:c:\users\lenovo\desktop\3rd computer\mathexpression\mexpremm.cpp
+	"MExpreMM.h"
+	<string.h>
+	<iostream>
+
